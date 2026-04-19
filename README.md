@@ -1,0 +1,1 @@
+Smart Tab Manager is a Chrome Extension designed to make browsing easier by automatically organizing tabs based on their domain and removing duplicate tabs, helping users keep their workspace clean and productive.
